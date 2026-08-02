@@ -1,0 +1,15 @@
+{
+    "name": "openpay/openpay",
+    "description": "correos2",
+    "authors": [
+        {
+            "name": "Brandon Axel Alonso López",
+            "email": "160175034+Brandon030605@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "*",
+        "phpmailer/phpmailer": "^7.1"
+    }
+}
